@@ -3,12 +3,12 @@
 This Python project focuses on predicting house prices based on various features using TensorFlow. The dataset contains information about house sales in King County, including features like the number of bedrooms, square footage, and location. The aim of this project is to create a neural network in order to predict a house price based on the given features. The primary steps of the project include exploratory data analysis (EDA), feature engineering, model building, evaluation, and improvement.
 
 ## Libraries
-pandas
-numpy
-matplotlib
-seaborn
-tensorflow
-scikit-learn
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* tensorflow
+* scikit-learn
 
 ## Getting Started
 Follow these steps:
@@ -45,8 +45,10 @@ Compile the model using the mean squared error (MSE) loss and the Adam optimizer
 ## Model Evaluation
 Evaluate the model's performance on the test set using metrics like mean absolute error (MAE), root mean squared error (RMSE), and explained variance score.
 Compare model predictions to actual house prices with scatterplots.
+
 ## Model Experimentation
 Create different neural network models with different hyperparameters and compare the results.
+
 ## Results
 The project aims to predict house prices based on various features, and the results include insights into the model's performance and its ability to make predictions.
 
